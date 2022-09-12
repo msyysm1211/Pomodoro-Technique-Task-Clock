@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_one"
+        android:icon="@drawable/renwu"
+        android:title="任务"
+
+        />
+    <item
+        android:id="@+id/tab_two"
+        android:icon="@drawable/tongji"
+        android:title="统计" />
+
+
+    <item
+        android:id="@+id/tab_three"
+        android:icon="@drawable/fenxi2"
+        android:title="分析" />
+
+</menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colortrue">#cdcdcd</color>
+    <color name="colorfalse">#515151</color>
+
+    <color name="button1">#8BC34A</color>
+    <color name="button2">#9C27B0</color>
+    <color name="button3">#FF5722</color>
+    <color name="button4">#70FFC107</color>
+    <color name="button5">#66FFEB3B</color>
+    <color name="button6">#72CDDC39</color>
+
+    <color name="a1">#948BC34A</color>
+    <color name="a2">#95009688</color>
+    <color name="a3">#C1CDDC39</color>
+    <color name="a4">#999C27B0</color>
+    <color name="a5">#66673AB7</color>
+    <color name="a6">#DD03A9F4</color>
+
+
+</resources>
